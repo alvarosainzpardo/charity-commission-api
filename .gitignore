@@ -21,7 +21,7 @@
 
 charity_api.sql
 .idea/**/*
-config/database.yml
+config/database*.yml
 
 .env
 *.swp
